@@ -1,16 +1,13 @@
-## Hi there 👋
+## estou com fome🥫
+-estou estudando no alura
+-estou me desenvolvendop na linguagem javaScript
+-utilizo esse espaco para minha organizacao e compartilhamento dos meus projetos
 
-<!--
-**Anabeatriz185/Anabeatriz185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###voce entrar em contato comigo💙
 
-Here are some ideas to get you started:
+00001214446620sp@aluno.educacao.sp.gov.br 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@anabeatrifc
+
+![](https://media1.tenor.com/m/FWnkVAebhfgAAAAC/kiss.gif)
+
